@@ -3,7 +3,7 @@
 I'm a passionate software engineer with experience in **TypeScript**, **NestJS**, **TypeORM**, and **PostgreSQL**. 
 
 I'm also looking for my next career opportunity! I am currently open to the following types of roles:
-- Erly-career (associate/junior) software engineering roles
+- Early-career software engineering roles
 - SDET or manual QA roles where the company culture provides opportunities for learning, mentorship, and upward mobility
 
 ## 🔧 Technologies & Tools
