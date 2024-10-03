@@ -1,4 +1,48 @@
-## Hi there 👋
+## Hi there, I'm Allison 👋 Welcome to my GitHub!
+
+I'm a passionate software engineer with experience in **TypeScript**, **NestJS**, **TypeORM**, and **PostgreSQL**. 
+
+I'm currently working on building dynamic web applications and backend systems, with a focus on event management for community-based projects, and I enjoy learning new technologies through side projects.
+
+I am also looking for my next career opportunity! I am currently open to early-career (associate/junior) software engineering roles, as well as SDET or manual QA roles where there is a company culture that emphasizes opportunities for learning, mentorship, and upward mobility into a development role in the future.
+
+## 🔧 Technologies & Tools
+- **Languages**: TypeScript, JavaScript, SQL
+- **Frameworks**: NestJS, Node.js, TypeORM
+- **Databases**: PostgreSQL, Redis
+- **Testing**: Mocha, Sinon
+
+## 🌱 Current Projects
+### 💃 Social Dance Event Management Platform
+I’m building a web application that helps organize and manage salsa dance events. It will include features like:
+- Scheduling management for one-time and recurring classes, socials, weekenders, and festivals
+- Handling roles for people like instructors, DJs, and attendees
+- Recurring event patterns and reusable genres for finding and filtering events
+
+## 📚 What I'm Learning
+- Continuing to deepen my expertise in **backend API development** and **database design** through developing the API for my dance event platform
+- Learning front-end development using React so that I can build the front-end for my dance event platform
+
+## 💼 Past Experience
+### 📱 Backend Development for Mobile Trivia Game
+During my time at Atmosphere TV, I worked on a highly synchronous online trivia game where users could join a country-wide trivia game on their mobile devices.
+
+During this project, I started in manual QA and transitioned into a software development role where I:
+- Implemented features for our API to enhance user experience, improve system efficiency, and provide new functionality
+- Developed scripts for data imports and edits to manage our trivia database and tweak existing question banks to fit with the evolving vision of trivia
+- Designed and implemented a database rearchitecture to increase the adaptability of our trivia game structure  
+
+### ✔️ SDET & Manual QA Experience
+Prior to transitioning into development< I worked in both automated and manual QA. I have experience in:
+- Developing automated integration tests for the API using the Karate automation framework
+- API endpoint testing through Postman
+- Bug identification and investigation through code exploration
+- Manual mobile app testing (Android & iOS) and TV app testing (Android & tvOS)
+
+## 📫 Get in Touch!
+I’m always interested in connecting with other developers and discussing new opportunities. Let’s connect!
+- [LinkedIn](https://linkedin.com/in/allisoncrenshaw)  
+- [Email](mailto:allisonecrenshaw@gmail.com)  
 
 <!--
 **allisonecrenshaw/allisonecrenshaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
