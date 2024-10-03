@@ -2,15 +2,14 @@
 
 I'm a passionate software engineer with experience in **TypeScript**, **NestJS**, **TypeORM**, and **PostgreSQL**. 
 
-I'm currently working on building dynamic web applications and backend systems, with a focus on event management for community-based projects, and I enjoy learning new technologies through side projects.
-
-I am also looking for my next career opportunity! I am currently open to early-career (associate/junior) software engineering roles, as well as SDET or manual QA roles where there is a company culture that emphasizes opportunities for learning, mentorship, and upward mobility into a development role in the future.
+I'm also looking for my next career opportunity! I am currently open to the following types of roles:
+- Erly-career (associate/junior) software engineering roles
+- SDET or manual QA roles where the company culture provides opportunities for learning, mentorship, and upward mobility
 
 ## 🔧 Technologies & Tools
 - **Languages**: TypeScript, JavaScript, SQL
 - **Frameworks**: NestJS, Node.js, TypeORM
 - **Databases**: PostgreSQL, Redis
-- **Testing**: Mocha, Sinon
 
 ## 🌱 Current Projects
 ### 💃 Social Dance Event Management Platform
@@ -20,12 +19,12 @@ I’m building a web application that helps organize and manage salsa dance even
 - Recurring event patterns and reusable genres for finding and filtering events
 
 ## 📚 What I'm Learning
-- Continuing to deepen my expertise in **backend API development** and **database design** through developing the API for my dance event platform
+- Deepening my expertise in **backend API development** and **database design** through developing the API for my dance event platform
 - Learning front-end development using React so that I can build the front-end for my dance event platform
 
 ## 💼 Past Experience
 ### 📱 Backend Development for Mobile Trivia Game
-During my time at Atmosphere TV, I worked on a highly synchronous online trivia game where users could join a country-wide trivia game on their mobile devices.
+During my time at Atmosphere TV, I worked on a highly synchronous online mobile trivia game.
 
 During this project, I started in manual QA and transitioned into a software development role where I:
 - Implemented features for our API to enhance user experience, improve system efficiency, and provide new functionality
