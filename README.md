@@ -7,9 +7,9 @@ I'm also looking for my next career opportunity! I am currently open to the foll
 - SDET or manual QA roles where the company culture provides opportunities for learning, mentorship, and upward mobility
 
 ## 🔧 Technologies & Tools
-- **Languages**: TypeScript, JavaScript, SQL
+- **Languages**: TypeScript, JavaScript, Java
 - **Frameworks**: NestJS, Node.js, TypeORM
-- **Databases**: PostgreSQL, Redis
+- **Data Management**: SQL, PostgreSQL, Redis
 
 ## 🌱 Current Projects
 ### 💃 Social Dance Event Management Platform
