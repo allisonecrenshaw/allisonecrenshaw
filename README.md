@@ -35,8 +35,8 @@ During this project, I started in manual QA and transitioned into a software dev
 Prior to transitioning into development< I worked in both automated and manual QA. I have experience in:
 - Developing automated integration tests for the API using the Karate automation framework
 - API endpoint testing through Postman
-- Bug identification and investigation through code exploration
-- Manual mobile app testing (Android & iOS) and TV app testing (Android & tvOS)
+- Manual xploratory and functional testing for web apps, mobile apps (Android & iOS), and TV apps (Android-based and tvOS)
+- Root cause investigation and identification through DB exploration and reading code
 
 ## 📫 Get in Touch!
 I’m always interested in connecting with other developers and discussing new opportunities. Let’s connect!
